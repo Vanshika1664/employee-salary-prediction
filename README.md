@@ -33,9 +33,12 @@ Label encoding was used for categorical variables and the model was trained usin
 
 ---
 
-## You can run the file code using the following command:
+You can run the file code using the following command:
+
+```bash
 streamlit run app.py
 
+```
 ## 🧾 Requirements
 - Python 3.8+
 - streamlit
